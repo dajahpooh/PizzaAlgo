@@ -1,0 +1,3 @@
+1. Call pizza place
+2. Choose toppings
+3. Pay
